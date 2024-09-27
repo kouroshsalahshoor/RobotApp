@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotApp", "RobotApp\RobotApp.csproj", "{0CB6A8FD-B48F-4EB8-B695-7CAB590EDF2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotApp.Tests", "RobotApp.tets\RobotApp.Tests.csproj", "{7BD32BD2-FAAE-456A-81BC-211EF32B7153}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotApp.Tests", "RobotApp.Tests\RobotApp.Tests.csproj", "{7BD32BD2-FAAE-456A-81BC-211EF32B7153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
